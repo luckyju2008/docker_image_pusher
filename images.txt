@@ -1,1 +1,1 @@
-redis
+store/oracle/database-enterprise:11.2.0.2
