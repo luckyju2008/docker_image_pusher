@@ -1,1 +1,1 @@
-liujunel/oracle11g:latest
+openjdk:8-jdk-alpine
