@@ -1,1 +1,1 @@
-teable-db
+nginx
